@@ -1,0 +1,22 @@
+{
+  "name": "preact-signals-core-with-vanilla-js",
+  "version": "1.0.0",
+  "description": "based on https://codepen.io/daKmoR/pen/gOzaqey?editors=1010",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@preact/signals-core": "1.0.1",
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
